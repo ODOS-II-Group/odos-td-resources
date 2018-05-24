@@ -1,2 +1,2 @@
 # Resources
-Resources for ODOS II Challenge
+Resources for ODOS II Tech Demo
